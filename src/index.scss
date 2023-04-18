@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+$bgColor: #08c;
+$fontColor: #fff;
+$lighBgColor: rgb(69, 54, 109);
+$bgTransparent: rgb(93, 93, 255);
+$borderColor : rgb(156, 65, 136);
+$borderHeight : 1px;
+$secondFontColor: red;
+
+
+body {
+    background-color: rgb(70, 70, 136);
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+
+}
+a,a:hover {
+    color: $fontColor !important;
+}
